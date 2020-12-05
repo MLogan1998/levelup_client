@@ -46,7 +46,7 @@ code {
 	color: inherit;
 	background: none;
 	cursor: pointer;
-	padding: 25px 80px;
+	padding: 5px 10px;
 	display: inline-block;
 	margin: 15px 30px;
 	text-transform: uppercase;
@@ -57,6 +57,7 @@ code {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
+	text-align: center;
 }
 
 .btn:after {
